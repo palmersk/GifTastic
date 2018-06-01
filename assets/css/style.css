@@ -1,0 +1,35 @@
+/* Header */
+
+.jumbotron {
+	/* Override jumbotron background color */
+	background-color: red !important;
+}
+.header {
+	color: white;
+	text-align: center;
+}
+
+.topic-button {
+  	display: block;
+  	padding: 0 15px;
+  	margin: 5px 5px;
+}
+
+.form-display {
+	margin: 10px auto;
+	padding: auto 50%;
+	text-align: center;
+}
+
+.add-button {
+	margin: auto 10px;
+}
+
+.gif-div {
+	display: inline;
+}
+
+.rating {
+	display: block;
+	max-width: 200px;
+}
